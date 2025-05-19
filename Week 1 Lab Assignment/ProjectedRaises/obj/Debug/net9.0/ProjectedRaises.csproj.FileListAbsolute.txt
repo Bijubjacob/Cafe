@@ -1,0 +1,15 @@
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/ProjectedRaises/bin/Debug/net9.0/ProjectedRaises
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/ProjectedRaises/bin/Debug/net9.0/ProjectedRaises.deps.json
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/ProjectedRaises/bin/Debug/net9.0/ProjectedRaises.runtimeconfig.json
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/ProjectedRaises/bin/Debug/net9.0/ProjectedRaises.dll
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/ProjectedRaises/bin/Debug/net9.0/ProjectedRaises.pdb
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/ProjectedRaises/obj/Debug/net9.0/ProjectedRaises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/ProjectedRaises/obj/Debug/net9.0/ProjectedRaises.AssemblyInfoInputs.cache
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/ProjectedRaises/obj/Debug/net9.0/ProjectedRaises.AssemblyInfo.cs
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/ProjectedRaises/obj/Debug/net9.0/ProjectedRaises.csproj.CoreCompileInputs.cache
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/ProjectedRaises/obj/Debug/net9.0/ProjectedRaises.sourcelink.json
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/ProjectedRaises/obj/Debug/net9.0/ProjectedRaises.dll
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/ProjectedRaises/obj/Debug/net9.0/refint/ProjectedRaises.dll
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/ProjectedRaises/obj/Debug/net9.0/ProjectedRaises.pdb
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/ProjectedRaises/obj/Debug/net9.0/ProjectedRaises.genruntimeconfig.cache
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/ProjectedRaises/obj/Debug/net9.0/ref/ProjectedRaises.dll

@@ -1,0 +1,15 @@
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/HoursAndMinutes/bin/Debug/net9.0/HoursAndMinutes
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/HoursAndMinutes/bin/Debug/net9.0/HoursAndMinutes.deps.json
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/HoursAndMinutes/bin/Debug/net9.0/HoursAndMinutes.runtimeconfig.json
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/HoursAndMinutes/bin/Debug/net9.0/HoursAndMinutes.dll
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/HoursAndMinutes/bin/Debug/net9.0/HoursAndMinutes.pdb
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/HoursAndMinutes/obj/Debug/net9.0/HoursAndMinutes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/HoursAndMinutes/obj/Debug/net9.0/HoursAndMinutes.AssemblyInfoInputs.cache
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/HoursAndMinutes/obj/Debug/net9.0/HoursAndMinutes.AssemblyInfo.cs
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/HoursAndMinutes/obj/Debug/net9.0/HoursAndMinutes.csproj.CoreCompileInputs.cache
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/HoursAndMinutes/obj/Debug/net9.0/HoursAndMinutes.sourcelink.json
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/HoursAndMinutes/obj/Debug/net9.0/HoursAndMinutes.dll
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/HoursAndMinutes/obj/Debug/net9.0/refint/HoursAndMinutes.dll
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/HoursAndMinutes/obj/Debug/net9.0/HoursAndMinutes.pdb
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/HoursAndMinutes/obj/Debug/net9.0/HoursAndMinutes.genruntimeconfig.cache
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/HoursAndMinutes/obj/Debug/net9.0/ref/HoursAndMinutes.dll

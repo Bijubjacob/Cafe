@@ -1,0 +1,15 @@
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/Eggs/bin/Debug/net9.0/Eggs
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/Eggs/bin/Debug/net9.0/Eggs.deps.json
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/Eggs/bin/Debug/net9.0/Eggs.runtimeconfig.json
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/Eggs/bin/Debug/net9.0/Eggs.dll
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/Eggs/bin/Debug/net9.0/Eggs.pdb
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/Eggs/obj/Debug/net9.0/Eggs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/Eggs/obj/Debug/net9.0/Eggs.AssemblyInfoInputs.cache
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/Eggs/obj/Debug/net9.0/Eggs.AssemblyInfo.cs
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/Eggs/obj/Debug/net9.0/Eggs.csproj.CoreCompileInputs.cache
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/Eggs/obj/Debug/net9.0/Eggs.sourcelink.json
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/Eggs/obj/Debug/net9.0/Eggs.dll
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/Eggs/obj/Debug/net9.0/refint/Eggs.dll
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/Eggs/obj/Debug/net9.0/Eggs.pdb
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/Eggs/obj/Debug/net9.0/Eggs.genruntimeconfig.cache
+/Users/bijujacob/Library/Mobile Documents/com~apple~CloudDocs/602 Hillside Rd/Lewis University/NET Programming/Week 1 Lab Assignment/Eggs/obj/Debug/net9.0/ref/Eggs.dll
